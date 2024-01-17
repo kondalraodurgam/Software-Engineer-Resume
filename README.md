@@ -1,22 +1,19 @@
-KONDAL DURGAM<br>
-UI Developer <br>
+**<h1>Hi! 👋 I'm KondalDurgam </h1>**
+**<h3>UI Developer </h3>**
 Mobile: +91 970 036 0165<br>
 Email: kondaldurgam733@gmail.com<br>
-LC: https://leetcode.com/KondalDurgam/<br>
+LeetCode: https://leetcode.com/KondalDurgam/<br>
 
-
-Profile<br>
+**<h3>Profile</h3>**
 I am a User Interface Developer, having 6+ years of experience in front-end development.
 I am self-motivated, an energetic team player but can also work independently. I love to
 build applications and strive to explore and learn new technical skills.<br>
 
-Career Objective<br>
-
+**<h3>Career Objective</h3>**
 As an ambitious and organized professional, looking for a full-time job where I can build
 a long-term career in a reputed organization.<br>
 
-Career Summary<br>
-
+**<h3>Career Summary</h3>**
 
 • I develop web applications using AngularJS, ReactJS, VueJS, JavaScript, HTML5, CSS3.<br>
 • Have a good knowledge in Algorithms and Data Structures.<br>
@@ -24,8 +21,7 @@ Career Summary<br>
 • Hands on experience ES6, Single Page Applications (SPA),ReactJS, AngularJS.<br>
 • Good in Industrial experience in Agile Methodologies.<br>
 
-Software Skills<br>
-
+**<h3>Software Skills</h3>**
 JavaScript 80%<br>
 ReactJS 85%<br>
 AngularJS 80%<br>
@@ -33,17 +29,18 @@ VueJS 70%<br>
 CSS3 90%<br>
 Bootstrap4 90%<br>
 HTML5 90%<br>
-Familiar with:
+
+**<h4>Familiar with:</h4>**
 Angular2+, JQuery, MongoDb, NodeJS, RESTful APIs, GraphQL, and AWS<br>
 
-Professional Skills<br>
+**<h3>Professional Skills</h3>**
 • Detail oriented and keen observer.<br>
 • Quick learner, ability to work independently and as well as a team member.<br>
 • Excellent time management and organizational skills.<br>
 • Good communication and interpersonal skills.<br>
 • Multi-tasking skills and ability to work under pressure.<br>
 
-Present Work Experience<br>
+**<h3>Present Work Experience</h3>**
 Oracle Cerner Corporation - Bangalor June 2021 – Present- SoftwareDeveloper-1<br>
 Projects<br>
 Worked as front-end JavaScript developer for MPages platform development team. The entire
