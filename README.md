@@ -1,13 +1,14 @@
-Hi! 👋 I'm KondalDurgam
-UI Developer
-Mobile: +91 970 036 0165
-Email: kondaldurgam733@gmail.com
-LeetCode: https://leetcode.com/KondalDurgam/
+**<h2>Hi! 👋 I'm KondalDurgam</h2>**
+UI Developer<br>
+Mobile: +91 970 036 0165<br>
+Email: kondaldurgam733@gmail.com<br>
+LeetCode: https://leetcode.com/KondalDurgam/<br>
 
-Profile
+**<h2>Profile</h2>**
 I am a User Interface Developer, having 6+ years of experience in front-end development. I am self-motivated, an energetic team player but can also work independently. I love to build applications and strive to explore and learn new technical skills.
 
-Career Objective
+
+**<h2>Career Objective</h2>**
 As an ambitious and organized professional, looking for a full-time job where I can build a long-term career in a reputed organization.
 
 Career Summary
