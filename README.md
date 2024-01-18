@@ -60,8 +60,7 @@ and clear closure scope data's which resolved a major memory leak.<br>
 • Developed / Enhanced multiple JavaScript API which is used for rendering, controlling
 web applications and controlling the availability of new released features.<br>
 
-
-My Role & Responsibilities<br>
+**<h4>My Role & Responsibilities</h4>**
 • Contributed to Ecosystem frameworks to enhance development tools consumed by
 most of the developers at CERNER.<br>
 • Contributed to Selenium based testing framework by writing multiple re-usable testing
@@ -74,12 +73,12 @@ and delivering my tasks on time.<br>
 WebileApps Techonology Services Pvt Ltd – Hyderabad | Nov 2020 – May 2021
 Software Developer<br>
 
-Projects<br>
+**<h4>Projects</h4>**
 IncludeSass- Total chat conversation between employers and client<br>
 GiftEffect- E-commerce project buying and selling of products<br>
 Technologies<br>
 ReactJS,, JavaScript, HTML5, CSS3, Bootstrap4, Sass,MatrialUI<br>
-My Role & Responsibilities<br>
+**<h4>My Role & Responsibilities</h4>**
 • I am taking care of developing innovative layouts for new and existing products.<br>
 • Collaborating with co-developers and project managers for the project progression
 and delivering my tasks on time.<br>
@@ -87,12 +86,13 @@ and delivering my tasks on time.<br>
 • Code reviews.<br>
 Unocareer Services Pvt Ltd – Hyderabad | January 2017 – Oct 2020
 Software Developer<br>
-Projects<br>
+**<h4>Projects</h4>**
 UnoCareer - A Talent Market Place for Employers and Candidates, India<br>
 Rise India - A Training responsive application for Rural People, India<br>
 Technologies<br>
 Angular JS, ReactJS, VueJS, JavaScript, HTML5, CSS3, Bootstrap4, Sass<br>
-My Role & Responsibilities<br>
+**<h4>My Role & Responsibilities</h4>**
+
 • I am taking care of developing innovative layouts for new and existing products.<br>
 • Collaborating with co-developers and project managers for the project progression
 and delivering my tasks on time.<br>
@@ -100,8 +100,10 @@ and delivering my tasks on time.<br>
 • Code reviews.<br>
 Past Work Experience<br>
 XYLines Technologies Pvt Ltd – Hyderabad | June 2016 - December 2016<br>
-Jr. Web Developer(Internship)<br>
-My Role & Responsibilities<br>
+Jr. Web Developer(Internship)
+
+**<h4>My Role & Responsibilities</h4>**
+
 • I worked as a junior developer and learned programming skills.<br>
 • Experienced in technologies: HTML, CSS, Bootstrap and JavaScript and<br>
 supported senior developers in creating layouts.<br>
