@@ -12,7 +12,7 @@ I am a User Interface Developer, having 6+ years of experience in front-end deve
 As an ambitious and organized professional, looking for a full-time job where I can build a long-term career in a reputed organization.
 
 Career Summary<br>
-• I develop web applications using AngularJS, ReactJS, VueJS, JavaScript, HTML5, and CSS3.<br>
+• I develop web applications using ReactJS, AngularJS,VueJS, JavaScript, HTML5, and CSS3.<br>
 • Have a good knowledge of Algorithms and Data Structures.<br>
 • Good at problem-solving and analytical skills.<br>
 • Hands-on experience with ES6, Single Page Applications (SPA), ReactJS, AngularJS.<br>
@@ -29,7 +29,7 @@ Bootstrap4 90%<br>
 HTML5 90%<br>
 
 Familiar with:
-Angular2+, JQuery, MongoDB, NodeJS, RESTful APIs, GraphQL, and AWS
+Angular2+, JQuery, MongoDB, NodeJS, RESTful APIs, GraphQL,Redux , Saga and AWS
 
 Professional Skills<br>
 • Detail-oriented and keen observer.<br>
