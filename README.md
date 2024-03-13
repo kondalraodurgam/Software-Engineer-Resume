@@ -15,7 +15,8 @@ I am a User Interface Developer, having 6+ years of experience in front-end deve
 **<h2>Career Objective</h2>**
 As an ambitious and organized professional, looking for a full-time job where I can build a long-term career in a reputed organization.
 
-Career Summary<br>
+
+**<h2>Career Summary</h2>**
 • I develop web applications using ReactJS, AngularJS,VueJS, JavaScript, HTML5, and CSS3.<br>
 • Have a good knowledge of Algorithms and Data Structures.<br>
 • Good at problem-solving and analytical skills.<br>
@@ -23,7 +24,7 @@ Career Summary<br>
 • Good Industrial experience in Agile Methodologies.<br>
 
 
-Software Skills<br>
+**<h2>Software Skills</h2>**
 JavaScript 80%<br>
 ReactJS 85%<br>
 AngularJS 80%<br>
@@ -32,7 +33,8 @@ CSS3 90%<br>
 Bootstrap4 90%<br>
 HTML5 90%<br>
 
-Familiar with:
+
+**Familiar with:</h2>**
 Angular2+, JQuery, MongoDB, NodeJS, RESTful APIs, GraphQL,Redux , Saga and AWS
 
 Professional Skills<br>
@@ -42,8 +44,10 @@ Professional Skills<br>
 • Good communication and interpersonal skills.<br>
 • Multi-tasking skills and ability to work under pressure.<br>
 
-Present Work Experience<br>
-Oracle Cerner Corporation - Bangalor June 2021 – Present- SoftwareDeveloper-1<br>
+
+**Present Work Experience**
+**Oracle Cerner Corporation - Bangalor June 2021 – Present- SoftwareDeveloper-1**
+
 Projects<br>
 Worked as front-end JavaScript developer for MPages platform development team. The entire platform development team is focused on developing clinical web applications with the latest JavaScript frameworks (Mithril / React ). Also, work on core JavaScript developments like building an in-house virtual DOM-based JavaScript library using mithril.js, custom re-usable React components, JavaScript API's for rendering and maintaining components.
 Technologies<br>
@@ -54,15 +58,16 @@ ReactJS,JavaScript,CSS3,HTML5,RESTful API's
 • Developed / Enhanced multiple JavaScript APIs which are used for rendering, controlling web applications, and controlling the availability of newly released features.<br>
 
 
-My Role & Responsibilities<br>
+**My Role & Responsibilities**
 • Contributed to Ecosystem frameworks to enhance development tools consumed by most of the developers at CERNER.<br>
 • Contributed to Selenium-based testing framework by writing multiple reusable testing controls and helpers.<br>
 • Collaborating with co-developers and project managers for the project progression and delivering my tasks on time.<br>
 • Training & mentoring team members/Freshers.<br>
 • Actively participated in all the low-level design and code review activities.<br>
 
-WebileApps Techonology Services Pvt Ltd – Hyderabad | Nov 2020 – May 2021<br>
-Software Developer<br>
+**WebileApps Techonology Services Pvt Ltd – Hyderabad | Nov 2020 – May 2021**
+
+**Software Developer**<br>
 
 Projects<br>
 IncludeSass- Total chat conversation between employers and client<br>
@@ -75,7 +80,7 @@ My Role & Responsibilities<br>
 • Training & mentoring team members/freshers.<br>
 • Code reviews.<br>
 
-Unocareer Services Pvt Ltd – Hyderabad | January 2017 – Oct 2020<br>
+**Unocareer Services Pvt Ltd – Hyderabad | January 2017 – Oct 2020**<br>
 Software Developer<br>
 Projects<br>
 UnoCareer - A Talent Market Place for Employers and Candidates, India<br>
