@@ -4,7 +4,6 @@ Mobile: +91 970 036 0165<br>
 Email: kondaldurgam733@gmail.com<br>
 LeetCode: https://leetcode.com/KondalDurgam/<br>
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kondal-durgam-028352166/)<br>
-[Profile_Kondal_Durgam_FrontEnd2024.pdf](https://github.com/kondalraodurgam/My-Resume-Blog/files/14583322/Profile_Kondal_Durgam_FrontEnd2024.pdf)
 
 
 
