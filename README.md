@@ -4,6 +4,9 @@ Mobile: +91 970 036 0165<br>
 Email: kondaldurgam733@gmail.com<br>
 LeetCode: https://leetcode.com/KondalDurgam/<br>
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kondal-durgam-028352166/)<br>
+[Profile_Kondal_Durgam_FrontEnd2024.pdf](https://github.com/kondalraodurgam/My-Resume-Blog/files/14583322/Profile_Kondal_Durgam_FrontEnd2024.pdf)
+
+
 
 **<h2>Profile</h2>**
 I am a User Interface Developer, having 6+ years of experience in front-end development. I am self-motivated, an energetic team player but can also work independently. I love to build applications and strive to explore and learn new technical skills.
